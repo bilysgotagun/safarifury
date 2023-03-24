@@ -1,0 +1,2 @@
+# safarifury
+Safari Fury
